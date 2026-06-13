@@ -18,7 +18,7 @@
 <!-- ====================== ABOUT ME ====================== -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-> *"It started with a single broken deploy at 2 AM. While everyone else feared the red 'build failed' screen, I fell in love with the chaos behind it — the servers, the logs, the invisible machinery that turns code into something real."*
+> *"It started with a single broken deploy at 2 AM. While everyone else feared the red 'build failed' screen, I fell in love with the chaos behind it the servers, the logs, the invisible machinery that turns code into something real."*
 
 - 🧑‍💻 **Role:** DevOps Enthusiast
 - 🌏 **Location:** India
