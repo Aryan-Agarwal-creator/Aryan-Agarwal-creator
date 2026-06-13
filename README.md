@@ -74,7 +74,9 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aryan-Agarwal-creator&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FFD1&icon_color=00FFD1" alt="stats" />
-<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Agarwal-creator](https://github-readme-stats-ten-tau-wktuo6yv6z.vercel.app/api/top-langs/?username=Aryan-Agarwal-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1%22%20alt=%22top%20langs%22)&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1" alt="top langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Agarwal-creator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1" alt="top langs" />
+
+<br/>
 
 <br/>
 
