@@ -53,6 +53,14 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 **💻 Platforms**
 
@@ -74,7 +82,44 @@
 
 </div>
 
-<!-- ====================== TROPHIES ====================== -->
+<!-- ====================== CONTRIBUTION ACTIVITY ====================== -->
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Agarwal-creator&theme=tokyo-night&bg_color=0D1117&color=00FFD1&line=00FFD1&point=FFFFFF&hide_border=true&area=true" alt="activity graph" />
+
+</div>
+
+<!-- ====================== PROFILE SUMMARY ====================== -->
+ ## 🗂️ Profile Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aryan-Agarwal-creator&theme=tokyonight" alt="profile summary" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryan-Agarwal-creator&theme=tokyonight" alt="repos per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryan-Agarwal-creator&theme=tokyonight" alt="most commit language" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aryan-Agarwal-creator&theme=tokyonight&utcOffset=5.5" alt="productive time" />
+
+</div>
+
+<!-- ====================== WAKA TIME ====================== -->
+## ⏱️ Weekly Coding Breakdown
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&layout=compact" alt="wakatime stats" />
+
+</div>
+
+
+<!-- ====================== TROPHIES ====================== 
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -82,8 +127,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Aryan-Agarwal-creator&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies" />
 
 </div>
+-->
 
-<!-- ====================== FEATURED PROJECTS (FILL IN) ====================== -->
+<!-- ====================== FEATURED PROJECTS (FILL IN) ====================== 
 ## 🚀 Proof of Work — Featured Projects
 
 <table>
@@ -116,7 +162,7 @@
     </td>
   </tr>
 </table>
-
+-->
 <!-- ====================== QUOTE ====================== -->
 ## 💡 Dev Quote of the Day
 
