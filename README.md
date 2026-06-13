@@ -111,16 +111,6 @@
 
 </div>
 
-<!-- ====================== WAKA TIME ====================== -->
-## ⏱️ Weekly Coding Breakdown
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFD1&layout=compact" alt="wakatime stats" />
-
-</div>
-
-
 <!-- ====================== TROPHIES ====================== 
 ## 🏆 GitHub Trophies
 
