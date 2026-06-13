@@ -102,7 +102,6 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aryan-Agarwal-creator&theme=tokyonight" alt="repos per language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aryan-Agarwal-creator&theme=tokyonight" alt="most commit language" />
 
 <br/>
